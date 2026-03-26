@@ -61,7 +61,7 @@
 <p align="left"> <a href="www.linkedin.com/in/martin-mounir" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Martin's LinkedIn"/></a> <a href="mailto:martin23017921@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Martin's Email"/></a> <a href="https://wa.me/1271759851" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
 
 ## 💬 Quote
-> NEVER GIVE UP
+<p align="center"><b>💬 NEVER GIVE UP 💬</b></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
