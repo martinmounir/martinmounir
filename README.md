@@ -41,11 +41,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50"/>
 </p>
 
-### 🗄️ Database
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
-</p>
-
 ### ⚙️ Tools
 <p align="center">
   <span style="display: inline-flex; gap: 10px;">
@@ -55,6 +50,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50"/>
   </span>
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
 </p>
 
 ---
