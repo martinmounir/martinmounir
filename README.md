@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Martin</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Frontend Developer | React & Next.js</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=martinmounir">
@@ -11,11 +11,11 @@
 
 ## 📌 About Me
 
-- 🔭 I’m currently working on building web development projects.
-- 🌱 I’m learning JavaScript deeply, and exploring front-end & back-end development.
-- 👯 I’m open to collaborating on web projects and open source.
-- 💬 Ask me anything about web development.
-- 📫 How to reach me: **martin23017921@gmail.com**
+- 🔭 I’m currently building real-world web applications.
+- 🌱 Focused on React ecosystem (Next.js, Redux, Tailwind).
+- 👯 Open to collaboration and internships opportunities.
+- 💬 Ask me about Frontend Development.
+- 📫 Reach me: **martin23017921@gmail.com**
 
 ---
 
@@ -32,10 +32,19 @@
 ### 🎨 Frontend
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50"/>
+</p>
+
+### ⚡ Build Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50"/>
 </p>
 
 ### 🗄️ Database
@@ -43,12 +52,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
 </p>
 
+### 🎨 Design Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
+</p>
+
 ### ⚙️ Tools
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
 </p>
 
 ---
