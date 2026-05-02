@@ -57,7 +57,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> 
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> 
-  <img src="https://www.vectorlogo.zone/logos/adobe/adobe-icon.svg" alt="Adobe" width="48" height="48" style="margin: 4px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_Corporate_Logo.png" alt="Adobe" width="48" height="48" style="margin: 4px;" />
 </p>
 
 ---
