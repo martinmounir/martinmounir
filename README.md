@@ -54,9 +54,11 @@
 
 ### ⚙️ Tools
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
+  <span style="display: inline-flex; gap: 10px;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" />
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" />
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" />
+  </span>
 </p>
 
 ---
