@@ -41,12 +41,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50"/>
 </p>
 
-### ⚡ Build Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50"/>
-</p>
-
 ### 🗄️ Database
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
@@ -58,6 +52,8 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" />
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" />
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50"/>
   </span>
 </p>
 
