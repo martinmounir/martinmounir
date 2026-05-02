@@ -45,10 +45,18 @@
 ### 🎨 Frontend
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" style="margin:8px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" style="margin:8px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" style="margin:8px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" style="margin:8px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" style="margin:8px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="48" style="margin:8px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" style="margin:8px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" style="margin:8px"/>
+</p>
+
+### 🗄️ Backend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" style="margin:8px"/>
 </p>
 
 ### 🗄️ Database
@@ -56,12 +64,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" style="margin:8px"/>
 </p>
 
-### ⚙️ Tools
+### ⚙️ Tools & Platforms
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" style="margin:8px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="48" style="margin:8px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="48" style="margin:8px"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="48" style="margin:8px"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" style="margin:8px"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" style="margin:8px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-2.svg" width="48" style="margin:8px"/>
 </p>
 
 ---
