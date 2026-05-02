@@ -14,10 +14,12 @@
 
 ## 📌 About Me
 
-- 🔭 Building real-world web applications  
-- 🌱 Focused on React ecosystem (Next.js, Redux, Tailwind)  
-- 👯 Open to internships & collaboration  
-- 💬 Ask me about Front-End Development  
+- 💻 Front-End Developer focused on crafting high-performance and scalable web applications  
+- ⚛️ Experienced with React.js, Next.js, Redux, and modern UI frameworks  
+- 🎯 Passionate about clean code, performance optimization, and great user experience  
+- 🧩 Problem solver with strong fundamentals in JavaScript & TypeScript  
+- 🚀 Continuously learning and building real-world projects to sharpen my skills  
+- 🤝 Actively seeking internship opportunities and open to collaboration  
 - 📫 **martin23017921@gmail.com**
 
 ---
