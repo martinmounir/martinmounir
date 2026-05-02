@@ -50,7 +50,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" style="margin:8px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" style="margin:8px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="48" style="margin:8px"/>
-  <!-- Tailwind FIXED -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" style="margin:8px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" style="margin:8px"/>
 </p>
@@ -88,8 +87,10 @@
 
 ---
 
-## 💬 Quote
-<p align="center"><b>Keep building. Keep improving.</b></p>
+## 💬 Philosophy
+<p align="center">
+  <b>Focused on writing clean code, building real-world projects, and continuously improving as a developer.</b>
+</p>
 
 ---
 
