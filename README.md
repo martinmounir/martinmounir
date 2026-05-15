@@ -82,9 +82,6 @@
   <a href="mailto:martin23017921@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-00FFFF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/1271759851">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
 </p>
 
 ---
